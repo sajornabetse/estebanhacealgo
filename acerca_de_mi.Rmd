@@ -1,0 +1,11 @@
+---
+title: "Acerca de mi"
+description: |
+  Mi nombre es Esteban y soy estudiante a medio tiempo<br>   
+  Me defino como una persona curiosa y un "jack of none master of none", por lo que este medio me sirve para compartir lo que aprenda y a reflexionar más sobre lo que aprendo.... <br>
+  Mi unico hobby por el momento es el de leer de forma casual , actualmente me encuentro leyendo VHS de alberto Fuguet. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
