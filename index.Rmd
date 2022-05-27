@@ -1,5 +1,5 @@
 ---
-title: "EstebanHaceAlgo"
-site: distill::distill_website
-listing: posts
+site: blogdown:::blogdown_site
 ---
+
+<!-- This file is for blogdown only. Please do not edit it. -->

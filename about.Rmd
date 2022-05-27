@@ -1,9 +1,0 @@
----
-title: "Acerca de este Blog"
-description: |
-  Por ahí leí sobre utilizar el método Feynman para aprender y me tinco la idea. Desearia poder establecer a ciencia cierta que temas abordaria pero aun no lo se. Por ahora me interesan temas sobre Backend, Python , R y matemáticas. 
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
