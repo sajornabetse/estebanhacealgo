@@ -6,8 +6,8 @@ layout: "about"
 
 ### ¿Quien es Esteban?
 
-Soy un estudiante de programación. Suelo leer cuando tengo tiempo libre y cuando no tengo tiempo, suelo fantasear con los "what if" de mi dia a dia. <br> 
-Suelo irme muy por el "quiero" y nunca voy mas allá por el "hago" , por lo que me estoy desafiando a hacer más.<br>
+Soy un estudiante de programación. Me gusta leer y suelo fantasear con los "what if's" de mi dia a dia. <br> 
+Cuando me motivo por algo suelo ir muy por el "quiero" y nunca voy mas allá por el "hago" , por lo que me estoy desafiando a hacer más.<br>
 Mis intereses actuales gravitan hacia el backend. Me encuentro aprendiendo python/django.
 
 ### ¿Qué es este espacio/blog? 

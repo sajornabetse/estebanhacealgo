@@ -7,7 +7,7 @@ theme = 'hugo-PaperMod'
 [menu]
 [[menu.main]]
   identifier = 'Acerca'
-  name = 'Quien es'
+  name = 'Acerca'
   url = '/acerca/'
   weight = 20
 [[menu.main]]
