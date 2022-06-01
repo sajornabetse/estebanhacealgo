@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'EstebanHaceAlgo'
+theme = 'hugo-PaperMod'
+
+
+[menu]
+[[menu.main]]
+  identifier = 'Acerca'
+  name = 'Quien es'
+  url = '/acerca/'
+  weight = 20
+[[menu.main]]
+  name = 'Inicio'
+  url = '/'
+  weight = 10
+
