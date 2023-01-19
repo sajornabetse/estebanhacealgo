@@ -1,6 +1,6 @@
-baseURL = 'http://estebanhacealgo.netlify.app/'
+baseURL = 'http://ensamblecoffee.cl/'
 languageCode = 'en-us'
-title = 'EstebanHaceAlgo'
+title = 'Ensamble-Cafe'
 theme = 'hugo-PaperMod'
 
 
