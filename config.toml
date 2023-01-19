@@ -1,6 +1,6 @@
 baseURL = 'http://ensamblecoffee.cl/'
 languageCode = 'en-us'
-title = 'Ensamble-Cafe'
+title = 'ENSAMBLE'
 theme = 'hugo-PaperMod'
 
 
